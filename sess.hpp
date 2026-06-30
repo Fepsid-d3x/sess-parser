@@ -1,5 +1,9 @@
 #pragma once
 
+////////////////////////////////
+// BSD 2-Clause License       //
+//                            //
+// Copyright (c) 2026, Fepsid //
 ///////////////////////////////////////////////////////////////////////////////////////
 // sess.hpp - Single-header SESS style sheet parser (C++17)                          //
 //                                                                                   //
