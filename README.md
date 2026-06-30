@@ -6,6 +6,8 @@
 [![EN](https://img.shields.io/badge/SYNTAX-English-blue)](en/syntax_en.md)
 [![RU](https://img.shields.io/badge/SYNTAX-Русский-red)](ru/syntax_ru.md)
 
+[![DOCTEST](https://img.shields.io/badge/DOCTEST-v2.5.2-green)](sess_test.cxx)
+
 ---
 
 Single-header C++17 style sheet parser for game and application UI.
