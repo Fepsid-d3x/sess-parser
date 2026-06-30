@@ -3,6 +3,9 @@
 [![EN](https://img.shields.io/badge/README-English-blue)](en/readme_en.md)
 [![RU](https://img.shields.io/badge/README-Русский-red)](ru/readme_ru.md)
 
+[![EN](https://img.shields.io/badge/SYNTAX-English-blue)](en/syntax_en.md)
+[![RU](https://img.shields.io/badge/SYNTAX-Русский-red)](ru/syntax_ru.md)
+
 ---
 
 Single-header C++17 style sheet parser for game and application UI.
